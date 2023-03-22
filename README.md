@@ -2,7 +2,7 @@
 
 ## Author
 
-Ferdy. M - 120140065
+Muhammad Duta Faturrahman - 120140065
 Kelas : RB
 
 ### Description
