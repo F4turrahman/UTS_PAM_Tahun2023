@@ -1,0 +1,9 @@
+export default {
+    primary: "#7208D4",
+    secondary: "#BBD6B8",
+    bgColor: "#20262B",
+    black: "#000",
+    lightGray: "#D3D3D3",
+    blue: "#98DFD6"
+  };
+  
